@@ -1,0 +1,10 @@
+# Eclipse Files
+.classpath
+.project
+.settings
+
+# Maven Directories
+target/*
+
+# VSCode Directories
+.vscode
