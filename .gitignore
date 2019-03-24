@@ -8,3 +8,10 @@ target/*
 
 # VSCode Directories
 .vscode
+
+# Idea directories
+*.iml
+.idea
+
+# Generic Files & Dir
+.factorypath
